@@ -5,5 +5,5 @@
 Para rodar esse projeto, digite esse comando:
 
 ```
-#comando para rodar
+node app.js
 ```
